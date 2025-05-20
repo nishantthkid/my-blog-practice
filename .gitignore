@@ -1,0 +1,9 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+/build/
+/dist/
+*.log
+*.tmp
