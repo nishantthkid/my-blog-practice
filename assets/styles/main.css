@@ -35,3 +35,7 @@ h1 {
 .footer-widgets {
     padding: 20px;
 }
+
+.footer-widgets .widget-item {
+    margin-bottom: 10px;
+}
