@@ -3,6 +3,7 @@ body {
     font-family: sans-serif;
     margin: 20px;
 }
+
 /* Dark Theme Styles */
 body.dark-mode {
     background-color: #333;
@@ -11,4 +12,17 @@ body.dark-mode {
 
 body.dark-mode a {
     color: #88c0d0;
+}
+/* Subscribe Button Styles */
+.subscribe-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.subscribe-button:hover {
+    background-color: #0056b3;
 }
